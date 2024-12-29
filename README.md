@@ -3,7 +3,7 @@
 **ID**: CT08DFP\
 **Domain** : Artificial Intelligence\
 **Duration** : 12 December 2024 to 12 January 2025\
-**Mentor** : \
+**Mentor** : N. Santhosh
 
 ## **Overview of the Project**
 ## Project : Crop Recommendation (Task-02)
