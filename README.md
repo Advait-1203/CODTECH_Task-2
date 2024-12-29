@@ -28,9 +28,9 @@ In this Task, the model evalutaion and comparison was completed and various oper
 - Crop Recommendeation.csv Dataset
 
 ## Implementation
-<img width="611" alt="Screenshot 2024-12-29 at 12 57 43 PM" src="https://github.com/user-attachments/assets/04b6e598-b5a0-4511-a8be-d9326575db27" />
-<img width="1017" alt="Screenshot 2024-12-29 at 12 57 07 PM" src="https://github.com/user-attachments/assets/bc5490a5-9c0f-4c65-9ff7-557bde4c4871" />
-<img width="1519" alt="Screenshot 2024-12-29 at 1 26 30 PM" src="https://github.com/user-attachments/assets/1775edd5-a0f7-4d05-9477-e8d46eecebd6" />
+<img width="1459" alt="Screenshot 2024-12-29 at 1 25 20 PM" src="https://github.com/user-attachments/assets/bd91347f-4700-4a4e-9ef8-5fccf189072c" />
+<img width="1519" alt="Screenshot 2024-12-29 at 1 26 30 PM" src="https://github.com/user-attachments/assets/d145bda1-97d0-4c3f-9791-2180eb4e8340" />
+<img width="1457" alt="Screenshot 2024-12-29 at 1 25 47 PM" src="https://github.com/user-attachments/assets/57196c3d-3b00-4195-8d3d-387d88feab96" />
 
 ## Conclusion
 Important insights into the unique nitrogen (N), phosphorus (P), and potassium (K) requirements of various crops have been gained through the process of data review and comparison utilising nutrient analysis. The technique successfully identifies low-demand and nutrient-intensive crops by utilising interactive visualisations like pie charts and bar charts, enabling tailored recommendations. A clear comparison of crop nutrient demands was made possible by sorting the data according to nutrient values, which highlighted the crops that required the most and the least amount of nutrients. In order to maximise nutrient application in farming and, eventually, assist farmers in better managing crop nutrition, this procedure is essential. These visualisations facilitate the effective decision-making process for agricultural practices by providing important insights into nutrient management in an understandable and educational way.
